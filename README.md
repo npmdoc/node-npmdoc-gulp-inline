@@ -1,9 +1,14 @@
-# api documentation for  [gulp-inline (v0.1.3)](https://github.com/ashaffer/gulp-inline)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-inline.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-inline) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-inline.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-inline)
+# npmdoc-gulp-inline
+
+#### api documentation for  [gulp-inline (v0.1.3)](https://github.com/ashaffer/gulp-inline)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-inline.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-inline) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-inline.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-inline)
+
 #### Inline styles and scripts into an html file.
 
-[![NPM](https://nodei.co/npm/gulp-inline.png?downloads=true)](https://www.npmjs.com/package/gulp-inline)
+[![NPM](https://nodei.co/npm/gulp-inline.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-inline)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-inline/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-inline_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-inline/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-inline/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-inline/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-inline/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-inline/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-inline/build/screenCapture.npmPackageListing.svg)
 
@@ -59,13 +64,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "ashaffer88",
-            "email": "darawk@gmail.com"
+            "name": "ashaffer88"
         }
     ],
     "name": "gulp-inline",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ashaffer/gulp-inline.git"
@@ -84,16 +87,6 @@
     "version": "0.1.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-inline](#apidoc.module.gulp-inline)
-
-
-
-# <a name="apidoc.module.gulp-inline"></a>[module gulp-inline](#apidoc.module.gulp-inline)
 
 
 
